@@ -1,29 +1,28 @@
-<h1 align="center"> 𝐂𝐘𝐏𝐇𝐄𝐑 𝐗 </h1>
+# SILAS-X ULTRA
 
-<p align="center">
-  <a href="https://github.com/Dark-Xploit/CypherX-Ultra">
-    <img alt="CypherX docs" height="350" src="https://i.ibb.co/nqsRcKDB/Xploader4.jpg">
-  </a>
-</p>
-    
-</a>
-</p>
-<p align="center">
-<a href="https://github.com/Dark-Xploit"><img title="Author" src="https://img.shields.io/badge/CypherX Ultra-darkgreen?style=for-the-badge&logo=whatsapp"></a>
-<p/>
+## Introduction
 
-<p align="center">
-    <strong>1. FORK REPOSITORY</strong>
-  <br>
-    <a href="https://github.com/Dark-Xploit/CypherX-Ultra/fork" target="_blank">
-        <img alt="Fork Repo" src="https://img.shields.io/badge/Fork%20Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue"/>
-    </a>
-</p>
+Welcome to SILAS-X ULTRA, the ultimate solution for your cryptographic needs.
 
-<p align="center">
-    <strong>2. SESSION ID</strong>
-    <br>
-    <a href="https://pair.cypherx.space/" target="_blank">
-        <img alt="WEBSITE" src="https://img.shields.io/badge/Let%27s_Go-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
-    </a>
-</p>
+## Author
+
+Originally developed by Silas.
+
+## Features
+
+- Enhanced security
+- User-friendly interface
+- Versatile functionality
+
+## Installation
+
+Instructions for installing SILAS-X ULTRA:
+
+1. Clone the repository using `git clone <repo-url>`.
+2. Follow the instructions in the installation guide.
+
+## Usage
+
+Refer to the documentation for usage examples and guidelines.
+
+Thank you for choosing SILAS-X ULTRA!
